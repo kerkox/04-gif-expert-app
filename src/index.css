@@ -22,7 +22,6 @@ input {
   display: flex;
   direction: row;
   flex-wrap: wrap;
-  background-color: antiquewhite;
 }
 
 .card {
